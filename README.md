@@ -42,10 +42,10 @@ After that one can invoke any endpoints, for example `GET /api/cars` will return
           }
         }
       },
-...
+
 ``` 
 
-Note the auto-generated fields "_links" - they are created due to presence of data-rest dependency on class path which enriches the output to match HATEOS(Hypertext as the Engine of Application State) principles.
+Note the auto-generated fields `_links` - they are created due to presence of data-rest dependency on class path which enriches the output to match HATEOS(Hypertext as the Engine of Application State) principles.
 
   
  
