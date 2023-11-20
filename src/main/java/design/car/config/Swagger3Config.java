@@ -32,8 +32,8 @@ public class Swagger3Config {
                                                 .email("aliaksei.kaliutau@gmail.com").url("avkaliutau.com")
                                 )
                                 .license(
-                                        new License().name("License of API")
-                                                .url("API license URL")
+                                        new License().name("Apache License 2.0")
+                                                .url("https://www.apache.org/licenses/LICENSE-2.0")
                                 )
                 );
     }
